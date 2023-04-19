@@ -20,8 +20,8 @@ body {
 }
 
 .derecha { float: right; }
-.rojo { color: #FF5049 !important; }
-.rojofocus:focus { border: 1px solid #FF5049 !important; }
+.rojo { color: #5bff49 !important; }
+.rojofocus:focus { border: 1px solid #5bff49 !important; }
 
 .cabecero {
     height: 40vh;
@@ -31,10 +31,10 @@ body {
     width: 100%;
     padding-top: 150px;
     padding-bottom: 100px;
-    color: #fff;
-    background: url(img.png), #7b4397;
-    background: url(img.png), -webkit-gradient(linear, right top, left top, from(#7b4397), to(#dc2430));
-    background: url(img.png), linear-gradient(to left, #7b4397, #dc2430)
+    color: #140505;
+    background: url(img.png), #740c5f;
+    background: url(img.png), -webkit-gradient(linear, right top, left top, from(#740c5f), to(#ee3f0a));
+    background: url(img.png), linear-gradient(to left, #740c5f, #ee3f0a)
 }
 
 .presupuesto {
